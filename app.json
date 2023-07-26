@@ -1,0 +1,39 @@
+{
+  "id": "2505f191-b6c0-45d9-b16c-0740b00475c9",
+  "name": "Salesforce Integration",
+  "publisher": "Suite Engine, LLC",
+  "version": "0.0.0.0",
+  "brief": "",
+  "description": "This extension shows how to integrate Salesforce with Business Central.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "4e25636c-7df0-4b8e-9967-ae9bf1a561f2",
+      "name": "Suite Engine API Engine Library",
+      "publisher": "Suite Engine, LLC",
+      "version": "0.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
